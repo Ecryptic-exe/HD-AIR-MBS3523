@@ -8,8 +8,8 @@ dispW = 640
 dispH = 480
 
 #  Box Properties
-BoxWidth = 100
-BoxHeight = 50
+BoxWidth = 80
+BoxHeight = 80
 tlC = 50  # Top Left Column
 tlR = 75  # Top Left Row
 lrC = tlC + BoxHeight
