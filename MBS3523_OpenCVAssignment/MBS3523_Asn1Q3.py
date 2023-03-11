@@ -10,8 +10,11 @@ dispH = 480
 #  Box Properties
 BoxWidth = 80
 BoxHeight = 80
+
+#  Start Pos
 tlC = 50  # Top Left Column
 tlR = 75  # Top Left Row
+
 lrC = tlC + BoxWidth
 lrR = tlR + BoxHeight
 deltaC = 2
